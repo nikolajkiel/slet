@@ -2,4 +2,4 @@
 slet
 
 
-<img src="./file.svg" alt="" />
+<img src="./file.svg" alt="file.svg"/>
