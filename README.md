@@ -12,3 +12,11 @@ slet
       B-->D;
       C-->D;
 ```
+
+
+```graphviz
+digraph name {
+a -> b -> c;
+b -> c;
+}
+```
