@@ -19,11 +19,3 @@ slet
    main -> init;
  }
 '/>
-
-
-```graphviz
-digraph name {
-a -> b -> c;
-b -> c;
-}
-```
