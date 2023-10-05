@@ -13,9 +13,9 @@ slet
       C-->D;
 ```
 
-<img src='https://g.gravizo.com/svg?
+<img src="https://g.gravizo.com/svg?
  digraph G {
    main -> parse -> execute;
    main -> init;
  }
-'/>
+"/>
