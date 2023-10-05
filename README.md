@@ -13,6 +13,13 @@ slet
       C-->D;
 ```
 
+<img src='https://g.gravizo.com/svg?
+ digraph G {
+   main -> parse -> execute;
+   main -> init;
+ }
+'/>
+
 
 ```graphviz
 digraph name {
